@@ -13,6 +13,6 @@
 ## Notes
 
 * [`XISMO2`](http://mqdl.jpn.org/) is a 3D modelling software for Windows.
-*  Pronunciation of `XISMO` for this software is written `キスモ` (🔈/kisumo/) for Japanese in the official site. So, I think a better pronunciation for English is 🔈/kismo/.
+*  Pronunciation of `XISMO` for this software is written as `キスモ` (🔈/kisumo/) for Japanese in the official site. So, I think a better pronunciation for English is 🔈/kismo/.
 * XISMO2 beta0 scripting language: `JavaScript`
 * ⚠ We should aware of beta releases are intended for our cooperation to debug, and are announced expiration dates.
