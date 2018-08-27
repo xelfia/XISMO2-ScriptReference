@@ -1,4 +1,4 @@
-# XISMO2 Scripting Reference
+# 🗎 XISMO2 Scripting Reference
 
 ---
 
