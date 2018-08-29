@@ -2,12 +2,20 @@
 
 ---
 
-# ☛ [View: XISMO2 (200 beta0…1) scripting reference ⚠unofficial](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7vmFWuCe1hBmJOXQVLh3zmJnjESsNqpEkrjaJCssycu5RVZQM17eDLmssk7waIpwMflqYuR26VRCw/pubhtml)
-</td></tr></table>
+## Documents are here
+
+* ☛ [View `ENGLISH` edition: XISMO2 (200 beta0…1) scripting reference ⚠unofficial](https://docs.google.com/spreadsheets/d/15iRxYjnTAIRpqjtBdDbEdUqzod1HyyzmER6Wc-kFkK8/edit#gid=0&fvid=1973063682)
+  * Currently, `English` edition is not completed. Incomplete lines are instead shown `Japanese`.
+* ☛ [`日本語`で見る: XISMO2 (200 beta0…1) scripting reference ⚠unofficial](https://docs.google.com/spreadsheets/d/15iRxYjnTAIRpqjtBdDbEdUqzod1HyyzmER6Wc-kFkK8/edit#gid=0&fvid=1464840588)
+  * `Japanese` edition
+* ☛ [View `Bilingual` edition: XISMO2 (200 beta0…1) scripting reference ⚠unofficial](https://docs.google.com/spreadsheets/d/15iRxYjnTAIRpqjtBdDbEdUqzod1HyyzmER6Wc-kFkK8/edit#gid=0)
+  * Unfiltered document can see as the `Bilingual`/`Translator` edition. You can switch the language filtering. Each edition is from the single document with filtered.
+<!--
+* ☛ [View Bilingual HTML edition: XISMO2 (200 beta0…1) scripting reference ⚠unofficial](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7vmFWuCe1hBmJOXQVLh3zmJnjESsNqpEkrjaJCssycu5RVZQM17eDLmssk7waIpwMflqYuR26VRCw/pubhtml)
+-->
 
 ---
 
-* ⚠ Currently, portion of `Descriptions` are Japanese only.
 * This was started to research what we can do now in XISMO2 beta0…1 scripting APIs.
 
 ## Notes
