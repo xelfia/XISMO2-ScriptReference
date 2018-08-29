@@ -5,7 +5,7 @@
 ## Documents are here
 
 * ☛ [View `English` edition: `XISMO2 (200 beta0…1) scripting reference ⚠unofficial`](https://docs.google.com/spreadsheets/d/15iRxYjnTAIRpqjtBdDbEdUqzod1HyyzmER6Wc-kFkK8/edit#gid=0&fvid=1973063682)
-  * Currently, `English` edition is not completed. Incomplete lines are instead shown `Japanese`.
+  * Currently, `English` edition is not completed. Incomplete lines are instead shown in `Japanese`.
 * ☛ [`日本語`で見る: `XISMO2 (200 beta0…1) scripting reference ⚠unofficial`](https://docs.google.com/spreadsheets/d/15iRxYjnTAIRpqjtBdDbEdUqzod1HyyzmER6Wc-kFkK8/edit#gid=0&fvid=1464840588)
   * `Japanese` edition
 * ☛ [View `Bilingual` edition: `XISMO2 (200 beta0…1) scripting reference ⚠unofficial`](https://docs.google.com/spreadsheets/d/15iRxYjnTAIRpqjtBdDbEdUqzod1HyyzmER6Wc-kFkK8/edit#gid=0)
