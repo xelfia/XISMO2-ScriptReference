@@ -24,3 +24,7 @@
 * On the official site, pronunciation of `XISMO` is written as `キスモ` (🔈/kisumo/) for `Japanese`. So, I think a better pronunciation for `English` is 🔈/kismo/.
 * XISMO2 beta0…1 scripting language: `JavaScript`
 * ⚠ We should aware of beta releases are intended for our cooperation to debug, and are announced expiration dates.
+
+## Scripts under research
+
+https://gist.github.com/xelfia/12878e11460368f813d7b7202f0d420a
