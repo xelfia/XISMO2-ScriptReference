@@ -25,6 +25,10 @@
 * XISMO2 beta0…1 scripting language: `JavaScript`
 * ⚠ We should aware of beta releases are intended for our cooperation to debug, and are announced expiration dates.
 
+# Scripts
+
+* [Add a mesh with a triangle](https://gist.github.com/xelfia/4d494ac2eb6ac1fe73d567728e2bdad1)
+
 ## Scripts under research
 
-https://gist.github.com/xelfia/12878e11460368f813d7b7202f0d420a
+* [UI](https://gist.github.com/xelfia/12878e11460368f813d7b7202f0d420a)
