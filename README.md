@@ -29,6 +29,6 @@
 
 * [Add a mesh with a triangle](https://gist.github.com/xelfia/4d494ac2eb6ac1fe73d567728e2bdad1)
 
-## Scripts under research
+## 🔎 Scripts under research
 
 * [UI](https://gist.github.com/xelfia/12878e11460368f813d7b7202f0d420a)
