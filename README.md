@@ -28,6 +28,7 @@
 ## Scripts
 
 * [Add a mesh with a triangle](https://gist.github.com/xelfia/4d494ac2eb6ac1fe73d567728e2bdad1)
+* [Project Stats](https://gist.github.com/xelfia/b8cd25ad3f6ba2e46dc3f2f5c1ff9582)
 
 ## 🔎 Scripts under research
 
