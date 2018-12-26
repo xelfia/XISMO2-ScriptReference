@@ -34,6 +34,6 @@
 
 * [UI](https://gist.github.com/xelfia/12878e11460368f813d7b7202f0d420a)
 
-## References
+## Other References
 
 * 🔗 [Working-in-progress official add-on references written in `Japanese`](http://mqdl.jpn.org/dw/doku.php)
